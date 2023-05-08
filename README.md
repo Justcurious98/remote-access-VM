@@ -3,7 +3,7 @@ Established a Linux virtual machine, installed Open Source Initiative-approved U
 
 ## Summary
 
-In this assignment, you installed a virtualized Ubuntu distribution of the Linux operating system using Oracle VirtualBox. The objective was to learn how to load and operate an OS in a virtualized environment, understand the usefulness of a virtualized OS, work with Linux in a virtualized environment, and understand the difference between NAT and direct network connections. You followed a series of steps to create a virtual machine, install Ubuntu from an ISO file, update the installation, configure the network settings, and perform network scans using nmap. Additionally, you experimented with various Linux commands and optionally installed and used SSH for secure remote access.
+In this assignment, I installed a virtualized Ubuntu distribution of the Linux operating system using Oracle VirtualBox. The objective was to learn how to load and operate an OS in a virtualized environment, understand the usefulness of a virtualized OS, work with Linux in a virtualized environment, and understand the difference between NAT and direct network connections. I followed a series of steps to create a virtual machine, install Ubuntu from an ISO file, update the installation, configure the network settings, and perform network scans using nmap. Additionally, I experimented with various Linux commands and optionally installed and used SSH for secure remote access.
 
 ### Commands used in the assignment
 
